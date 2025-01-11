@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+grafana-data/
+
+/.idea
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+# Monitoring Stack with Prometheus, Grafana, and cAdvisor
+
+This project provides a complete monitoring stack for Docker environments, featuring Prometheus, Grafana, and cAdvisor.
+
+## Features
+- **Prometheus** for metrics collection.
+- **Grafana** for data visualization.
+- **cAdvisor** for Docker container monitoring.
+
+## Prerequisites
+- Docker and Docker Compose installed on your system.
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/marien-mupenda/monitoring-stack.git
+   cd monitoring-stack
