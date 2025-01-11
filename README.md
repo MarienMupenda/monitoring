@@ -11,5 +11,5 @@ Ce projet déploie une stack de monitoring basée sur **Prometheus**, **Grafana*
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/username/monitoring-stack.git
+   git clone https://github.com/marien-mupenda/monitoring.git
    cd monitoring-stack
