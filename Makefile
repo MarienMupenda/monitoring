@@ -6,7 +6,7 @@ DOCKER_COMPOSE=docker compose
 
 # Commande pour démarrer la stack
 start:
-	$(DOCKER_COMPOSE) up -d
+	$(DOCKER_COMPOSE) up -d --force-recreate
 
 # Commande pour arrêter la stack
 stop:
