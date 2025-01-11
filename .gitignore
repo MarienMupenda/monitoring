@@ -10,3 +10,6 @@ grafana-data/
 # OS files
 .DS_Store
 Thumbs.db
+
+grafana/data/
+.env

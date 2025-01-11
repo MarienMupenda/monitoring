@@ -36,7 +36,6 @@ update:
 test:
 	@echo "Prometheus : http://localhost:9090"
 	@echo "Grafana : http://localhost:3000"
-	@echo "cAdvisor : http://localhost:8080"
 
 # Aide pour lister les commandes disponibles
 help:
